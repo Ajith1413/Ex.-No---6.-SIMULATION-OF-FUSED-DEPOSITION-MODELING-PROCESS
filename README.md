@@ -22,6 +22,7 @@
 
 ## Output:
 ![image](https://github.com/Ajith1413/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139842524/07bc980a-570d-4093-b6a5-18ecb8b3a465)
+![ex7-1](https://github.com/Ajith1413/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139842524/7a9066ce-de22-444d-97fa-65c89be4c80f)
 
 
 ### Name: AJITH KUMAR A
