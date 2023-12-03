@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 24-11-2023 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -17,8 +17,9 @@
 
 ## OUTPUT:
 ![ex7-1](https://github.com/Ajith1413/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139842524/7a9066ce-de22-444d-97fa-65c89be4c80f)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![image](https://github.com/Ajith1413/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139842524/8f52532e-9b0a-4732-ac19-61fe75a640f6)
+![image](https://github.com/Ajith1413/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139842524/27fe83e8-4c39-4ee0-ad8a-9483c786f06a)
+
 
 ## Output:
 ![image](https://github.com/Ajith1413/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139842524/07bc980a-570d-4093-b6a5-18ecb8b3a465)
